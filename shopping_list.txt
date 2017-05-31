@@ -3,3 +3,4 @@ Eggs
 Apples
 Cereal
 Bread
+Rice Krispies
