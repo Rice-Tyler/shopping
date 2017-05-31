@@ -5,3 +5,4 @@ Cereal
 Bread
 Rice Krispies
 chips
+paper towels
