@@ -3,3 +3,7 @@ Eggs
 Apples
 Cereal
 Bread
+
+streamers
+balloons
+cake 
