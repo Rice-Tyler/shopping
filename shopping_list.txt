@@ -7,3 +7,4 @@ Bread
 streamers
 balloons
 cake 
+chips
