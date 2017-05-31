@@ -4,3 +4,4 @@ Apples
 Cereal
 Bread
 Rice Krispies
+chips
